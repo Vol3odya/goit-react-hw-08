@@ -1,0 +1,1 @@
+export const nameFilters = (state) => state.filters.name;
